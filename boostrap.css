@@ -1084,7 +1084,7 @@ ol {
 .u-button-style.u-border-no-top.u-border-no-right.u-border-no-bottom,
 .u-button-style.u-border-no-top.u-border-no-right.u-border-no-left,
 .u-btn-rectangle {
-  border-radius: 0 !important;
+  border-radius: 8 !important;
 }
 .u-button-style {
   transition-property: background-color, color, border-color;
